@@ -92,17 +92,6 @@ If an invalid input is detected, an appropriate error message is displayed.
 
 ---
 
-## 📸 GUI Preview
-
-You can add a screenshot of the GUI here after uploading it.
-
-Example:
-
-```
-<img width="502" height="688" alt="image" src="https://github.com/user-attachments/assets/0507f182-793b-48eb-a2db-cc394199396b" />
-
-```
-
 ## 🎯 Learning Outcomes
 
 Through this project, I learned:
