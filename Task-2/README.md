@@ -1,4 +1,4 @@
-# 🔐 Password Generator - CodSoft Internship Project
+# Password Generator - CodSoft Internship Project
 
 ## 📌 Project Overview
 
@@ -8,7 +8,7 @@ The application uses Python's built-in **random** and **string** modules to gene
 
 ---
 
-## ✨ Features
+##  Features
 
 * 🔢 Custom password length
 * 🔠 Include uppercase letters
@@ -22,7 +22,7 @@ The application uses Python's built-in **random** and **string** modules to gene
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python 3
 * `random` module
@@ -30,7 +30,7 @@ The application uses Python's built-in **random** and **string** modules to gene
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 Run the program using:
 
@@ -63,7 +63,7 @@ The application validates user input by:
 
 ---
 
-## 🔒 Password Generation Logic
+## Logic
 
 The generator follows these steps:
 
